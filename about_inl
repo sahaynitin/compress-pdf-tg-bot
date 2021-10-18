@@ -1,4 +1,4 @@
-###########
+class about_inl(object)
     ABOUT_BUTTONS = [
         [InlineKeyboardButton("📡 Update Channel", url="https://t.me/tellybots_4u")],
         [
