@@ -1,5 +1,5 @@
 class Presets(object):
-    WELCOME_TXT = "<b>Hey {}</b>\n\n<b>I can compress the size of pdf files.\n\n Just Send me a pdf File to see the magic !</b> "
+    WELCOME_TXT = "<b>Hey {}</b>\n\n<b>I am Pdf Compressor bot.\n\nI can compress the size of pdf files\n\n Just Send me a pdf File to see the magic !</b> "
     INVALID_FORMAT = "<b>Error:</b>\n<b>I can only compress pdf documents. Please make it sure, you have given me a " \
                      "valid document. Try again...</b>"
     WAIT_MESSAGE = "⌛️ <b>Processing</b> ⌛"
