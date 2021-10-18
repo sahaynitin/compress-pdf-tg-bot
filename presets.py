@@ -12,3 +12,4 @@ class Presets(object):
     FINISHED_JOB = "<b>Success</b> ✅ \n\n<i>Size before job: {}\nSize after job: {}\n\nBy: </b><a " \
                    "href='https://t.me/tellybots_4u'><b>Tellybots_4u</b></a> "
     JOB_ERROR = "<b>Error:</b>\n<b>Something went wrong ! Process exited</b>"
+    ABOUT_MSG = 
