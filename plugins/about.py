@@ -11,5 +11,5 @@ async def about(bot, msg):
         msg.chat.id,
         Preset.ABOUT_TEXT,
         disable_web_page_preview=True,
-        reply_markup=InlineKeyboardMarkup(ABOUT_INL.ABOUT_BUTTONS),
+        reply_markup=InlineKeyboardMarkup(aboutdata.ABOUT_BUTTONS),
     )
