@@ -1,7 +1,7 @@
 from presets import Presets
 from pyrogram.types import Message
 from pyrogram import Client, filters
-from about_inl import ABOUT_BUTTONS
+from aboutdata import ABOUT_BUTTONS
 
 
 # About Message
