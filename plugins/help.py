@@ -8,7 +8,7 @@ from pyrogram import Client, filters
 async def _help(bot, msg):
     await bot.send_message(
         msg.chat.id,
-        "**Here's How to Use Me **\n" + preset.HELP,
+        "**Here's How to Use Me **\n" + presets.HELP,
         reply_markup=InlineKeyboardMarkup(markups.close)
     )
 
