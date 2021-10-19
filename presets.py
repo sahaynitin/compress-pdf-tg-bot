@@ -13,4 +13,4 @@ class Presets(object):
                    "href='https://t.me/tellybots_4u'><b>Tellybots_4u</b></a> "
     JOB_ERROR = "<b>Error:</b>\n<b>Something went wrong ! Process exited</b>"
     ABOUT_TEXT = "**About This Bot** \n\nMaintained By: [Tellybots_4u](https://t.me/tellybots_4u) \n\nSource : [Click Here](https://t.me/tellybots_digital) \n\nFramework : [Pyrogram](docs.pyrogram.org) \n\nLanguage : [Python](www.python.org) \n\nDeveloper : [Tellybots_4u](https://t.me/tellybots_4u)"
-
+    HELP = "Just send me pdf to get compressed"
